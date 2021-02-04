@@ -7,10 +7,9 @@ return (
     <div className="App">
       <header className="App-header">
       <div id='title'>
-      <h3><strong>Piedra, Papel o Tijera</strong></h3>
+      <h3><strong>Piedra, Papel, Tijera, Lagarto y Spock</strong></h3>
       <h3><strong>Big Bang Theory style</strong></h3>
-      <p><strong>El mejor juego de la historia reversionado!!!</strong></p>
-      </div>
+    </div>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
   </div>  
